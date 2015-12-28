@@ -1,4 +1,4 @@
-[![License GPL 3][badge-license]]
+![License GPL 3][badge-license]
 
 
 Αρχεία μεταφραστικής μνήμης:
