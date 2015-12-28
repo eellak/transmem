@@ -1,5 +1,7 @@
 ![License GPL 3][badge-license]
 ![MAELLAK][maellak-badge]
+![ELLAK][ellak-badge]
+
 
 Αρχεία μεταφραστικής μνήμης:
 greektmcombined.po & greektmcombined.tmx
@@ -10,3 +12,4 @@ Mongo, Rails, Spring, Symphony, OO, Netbeans, Python, που συλλέχθηκ�
 
 [badge-license]: https://opensource.ellak.gr/wp-content/uploads/sites/5/2015/12/gpl3.svg
 [maellak-badge]: https://opensource.ellak.gr/wp-content/uploads/sites/5/2015/12/ma-ellak.png
+[ellak-badge]:https://opensource.ellak.gr/wp-content/uploads/sites/5/2015/12/el-lakbadge.png
