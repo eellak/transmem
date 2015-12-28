@@ -1,3 +1,5 @@
+[![License GPL 3][badge-license]][copying]
+
 Αρχεία μεταφραστικής μνήμης:
 greektmcombined.po & greektmcombined.tmx
 
